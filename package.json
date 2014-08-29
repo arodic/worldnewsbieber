@@ -1,0 +1,30 @@
+{
+  "name": "worldnewsbieber",
+  "version": "1.0.0",
+  "description": "Twitter Bot",
+  "main": "wnb.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arodic/worldnewsbieber.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "beiber",
+    "world",
+    "news"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arodic/worldnewsbieber/issues"
+  },
+  "homepage": "https://github.com/arodic/worldnewsbieber",
+  "dependencies": {
+    "twit": "^1.1.18",
+    "wordpos": "^0.1.9"
+  }
+}
